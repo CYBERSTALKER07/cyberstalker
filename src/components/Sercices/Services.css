@@ -1,0 +1,33 @@
+.services-container {
+    padding: 20px;
+}
+.service-box1{
+
+}
+.service-box {
+    text-align: center;
+    padding: 10px;font-weight: bold;
+    color: blueviolet;
+    font-size: large;
+    height: 100px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    background-color: #f9f9f9;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.company-logo {
+    display: block;
+    margin: 20px auto;
+    max-width: 100px;
+}
+
+
